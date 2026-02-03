@@ -1,4 +1,3 @@
-# Introduction
-Hi, welcome to my Algorithmic project. I have a passion to make an auto trading program.
-My goal is to adapt Machine Learning into the program and using trading strategy through mathematics.
-Anything needs to improve you can comment them.
+# Before go into code
+I tried to simulate backtesting based on my python and finance knowledge before using Backtradder library.
+The purpose is to see how far I can go without using already existed library for back testing
